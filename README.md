@@ -32,7 +32,9 @@ WHERE cc.ChurnStatus = 'Churned'
 🛠️ Tools
 
 MySQL Workbench
+
 CSV import/export
+
 GitHub for version control
 
 ✨ Author
