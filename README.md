@@ -12,7 +12,9 @@ customer_returns → return transactions and refund amounts
 🔄 Key Steps
 
 Cleaning: fixed inconsistent values, imputed missing data, removed outliers
+
 Transformation: renamed columns, created ComplaintReceived & ChurnStatus, dropped old flags
+
 Analysis: queries for churn counts, tenure averages, preferred payment modes, refund details
 
 📊 Example Querysql
