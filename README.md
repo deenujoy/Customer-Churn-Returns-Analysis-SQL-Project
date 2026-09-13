@@ -4,7 +4,9 @@ SQL project analyzing customer churn and returns in an e‑commerce dataset.
 Covers data cleaning, transformation, and exploration.
 
 🧩 Tables
+
 customer_churn → customer details, orders, churn status
+
 customer_returns → return transactions and refund amounts
 
 🔄 Key Steps
@@ -26,6 +28,7 @@ WHERE cc.ChurnStatus = 'Churned'
 
 
 🛠️ Tools
+
 MySQL Workbench
 CSV import/export
 GitHub for version control
